@@ -1,6 +1,7 @@
 # Sliding Puzzle
 > 3 by 3 sliding puzzle that's automatically solved using the A* search algorithm.
 
+
 This program consists of the implementation of the A* Search Algorithm that solves the 3x3 sliding puzzle game automatically.
 
 We will call "state" each possible configuration of the board, therefore,  the board shown bellow will be the target state (solution). 
